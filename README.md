@@ -9,6 +9,6 @@ It supports two commands:
 ## **Warning!**
 This bot is not production ready. 
 
-This is small side project for me to learn more about go, viper, cobra and mattermost bots
+This is a small side project for me to learn more about go, viper, cobra and mattermost bots
 
 My code probably contains many antipatterns or worst practices.
